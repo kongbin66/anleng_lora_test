@@ -6,6 +6,15 @@ tools/toolchain/bin/*
 tools/toolchain/lib/*
 tools/toolchain/share/*
 
+gcc-arm-none-eabi-9-2020-q2-update-win32/*
+build/*
+drivers/*
+lora/*
+other/*
+png/*
+tools/*
+整理好/*
+
 **.sh
 doc
 
